@@ -1,4 +1,6 @@
-## evaluacion_js
+# evaluacion_js
+
+## Autores: Don Mauricio Flores y MR Sergio Bustos
 
 **Funciones:**
 - **Funcion comprobarPresupuesto()**: Verifica si el numero ingresado por el usuario sea mayor a 700000 o menor, si este es mayor, hace un descuento del 15% si es menor hace un descuento de 5%, esta información la obtiene de la funcion ejercicio_1
